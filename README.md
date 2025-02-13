@@ -1,2 +1,4 @@
 # Azure Translator
-Translate text with Azure AI Translator service
+
+## Overview
+This repository deals with translating text with Azure AI Translator service.
