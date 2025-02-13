@@ -33,10 +33,10 @@ source translator_project/bin/activate
 
 ## Package Configuration
 
-In the VS Code terminal (with the virtual environment now set up), install the following library
+In the VS Code terminal (with the virtual environment now set up), install the following libraries
 
 ```bash
-pip install azure-ai-translation-text==1.0.0b1
+pip install azure-ai-translation-text==1.0.0b1 python-dotenv
 ```
 
 
