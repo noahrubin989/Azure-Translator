@@ -49,5 +49,6 @@ python3 translate_text.py
 
 ## Resources
 * [Exploring the `TextTranslationClient` class](https://learn.microsoft.com/en-us/python/api/azure-ai-translation-text/azure.ai.translation.text.texttranslationclient?view=azure-python)
+* [Azure Text Translation client library for Python - version 1.0.1](https://learn.microsoft.com/en-us/python/api/overview/azure/ai-translation-text-readme?view=azure-python)
 
 
