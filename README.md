@@ -39,5 +39,12 @@ In the VS Code terminal (with the virtual environment now set up), install the f
 pip install azure-ai-translation-text==1.0.0b1 python-dotenv
 ```
 
+## Run File
+
+In the VS Code terminal, run the following
+
+```bash
+python3 translate_text.py
+```
 
 
