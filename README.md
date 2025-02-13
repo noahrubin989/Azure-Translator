@@ -47,4 +47,7 @@ In the VS Code terminal, run the following
 python3 translate_text.py
 ```
 
+## Resources
+* [Exploring the `TextTranslationClient` class](https://learn.microsoft.com/en-us/python/api/azure-ai-translation-text/azure.ai.translation.text.texttranslationclient?view=azure-python)
+
 
