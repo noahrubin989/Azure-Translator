@@ -16,6 +16,7 @@ The `.env` file takes on the following form:
 
 ```
 TRANSLATOR_KEY=your_translator_key
+TRANSLATOR_ENDPOINT=your_translator_endpoint
 TRANSLATOR_REGION=your_translator_region
 ```
 
