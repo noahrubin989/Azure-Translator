@@ -8,7 +8,7 @@ To use the Azure AI Translator service, you must provision a resource for it in 
 
 <img width="606" alt="Resource Setup" src="https://github.com/user-attachments/assets/2be5c79d-b3fe-459b-b8b1-f4a81c4f9dce" />
 
-Next, go to the **Keys and Endpoint** section and extract the **Key 1** value. This will be placed in our `.env` file, alongside the region that the resource exists in (Australia East)
+Next, go to the **Keys and Endpoint** section and extract the **Key 1** and **Text Translation** value. This will be placed in our `.env` file, alongside the region that the resource exists in (Australia East)
 
 <img width="819" alt="Keys and Endpoint" src="https://github.com/user-attachments/assets/811761c7-779b-41d6-b270-a6473b8d11a4" />
 
