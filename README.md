@@ -1,5 +1,5 @@
 # Azure Translator
-Translate text with Microsoft Azure
+Translate text with Microsoft Azure.
 
 ## Overview
 This repository deals with translating text with Azure AI Translator service - a service that can translate more than 100 languages and dialects.
